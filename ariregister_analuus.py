@@ -27,8 +27,7 @@ from geopy import geocoders
 geolocator = geocoders.GoogleV3()
 location=geolocator.geocode(data["kogu_aadress"][2])
 print((location.latitude, location.longitude))
-#loobime rahulikult koos viitajaga
-
+#loobime rahulikult koos viitajaga esimesed 1000 rida
 for i in range(0,1000):
     location=geolocator.geocode(data["kogu_aadress"][i], timeout=10)
     data["lat"][i]=location.latitude
@@ -39,7 +38,7 @@ for i in range(0,1000):
 #subset andmetest
 proov=data.head(100)
 
-# the template. where data from the csv will be formatted to geojson
+# geojsoni formaadi näidis
 template = \
     ''' \
     {  "geometry" : {
@@ -49,13 +48,13 @@ template = \
         "type" : "Feature"
         },
     '''
-# the head of the geojson file
+# geojsoni päis
 output = \
     ''' \
 { "type" : "FeatureCollection",
     "features" : [
     '''
-# loop through the csv by row skipping the first
+# loobime läbi andmefaili
 for i in range(0,len(proov)):
         lat = proov["lon"][i]
         lon = proov["lat"][i]
