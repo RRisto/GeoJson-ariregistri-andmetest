@@ -29,7 +29,7 @@ location=geolocator.geocode(data["kogu_aadress"][2])
 print((location.latitude, location.longitude))
 #loobime rahulikult koos viitajaga
 
-for i in range(100,1000):
+for i in range(0,1000):
     location=geolocator.geocode(data["kogu_aadress"][i], timeout=10)
     data["lat"][i]=location.latitude
     data["lon"][i]=location.longitude
