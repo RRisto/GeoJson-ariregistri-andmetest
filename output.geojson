@@ -1,0 +1,599 @@
+ { "type" : "FeatureCollection",
+    "features" : [
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6535238,59.41280080000001]},
+        "properties" : { "name" : "001 group OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7312956,58.3805145]},
+        "properties" : { "name" : "007 Autohaus osaühing"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7019028,59.4241148]},
+        "properties" : { "name" : "013 Graphics OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7633884,59.43917639999999]},
+        "properties" : { "name" : "01 Creations Osaühing"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7469298,59.42804040000001]},
+        "properties" : { "name" : "0-Takso OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.591621,59.3446047]},
+        "properties" : { "name" : "1001 Investments OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.713455,59.43992289999999]},
+        "properties" : { "name" : "100% Carbon OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6677278,59.4115098]},
+        "properties" : { "name" : "100CAR OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6271589,58.37780790000001]},
+        "properties" : { "name" : "100 doors OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.874363,59.45894309999999]},
+        "properties" : { "name" : "100 Jalga OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.760602,59.43273609999999]},
+        "properties" : { "name" : "100m³ Täiteliiva UÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.780335,59.4333942]},
+        "properties" : { "name" : "100 Protsenti OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [28.1898943,59.3645151]},
+        "properties" : { "name" : "100TONS OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.886946,59.4456392]},
+        "properties" : { "name" : "100 Vill OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.8930111,59.4480704]},
+        "properties" : { "name" : "100 Wool OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.8153882,59.3950506]},
+        "properties" : { "name" : "101 Visiooni OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7365138,59.40848510000001]},
+        "properties" : { "name" : "101 Ärisüsteemid OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7644686,59.4324688]},
+        "properties" : { "name" : "1024 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7464089,59.43116029999999]},
+        "properties" : { "name" : "102 Property Holding OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.643025,59.33793129999999]},
+        "properties" : { "name" : "10 ASJA OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7346755,59.42593720000001]},
+        "properties" : { "name" : "10 Capital OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7430232,59.4323665]},
+        "properties" : { "name" : "10 Distribution Group OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7451634,58.382563]},
+        "properties" : { "name" : "10 Exotec OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7451634,58.382563]},
+        "properties" : { "name" : "10 Horse Shop OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.4947523,58.05804800000001]},
+        "properties" : { "name" : "10x10 Invest UÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7846271,59.44136469999999]},
+        "properties" : { "name" : "1111 KOMA 1111 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7321259,59.414721]},
+        "properties" : { "name" : "112 Kinnisvara OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7197346,59.4317293]},
+        "properties" : { "name" : "118finder OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7650549,59.436482]},
+        "properties" : { "name" : "11 Meelt ja Maitset OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7235562,58.3780546]},
+        "properties" : { "name" : "12.12.12 UÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7268921,58.3577639]},
+        "properties" : { "name" : "123Autoklaas OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.65233,59.4062779]},
+        "properties" : { "name" : "123 Autoosad OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7946794,59.42743840000001]},
+        "properties" : { "name" : "123 Baltic OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7031004,59.42662969999999]},
+        "properties" : { "name" : "123 Ehitus OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7629211,59.43858]},
+        "properties" : { "name" : "123 Grupp OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [22.4836314,58.2583898]},
+        "properties" : { "name" : "123 Haldus OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7441165,59.444684]},
+        "properties" : { "name" : "123 Invest OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7620094,58.37608640000001]},
+        "properties" : { "name" : "123 Kindlustuskonsultatsioonid OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7570963,59.4335031]},
+        "properties" : { "name" : "123 Kinnisvarahalduse OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.70632,59.44852479999999]},
+        "properties" : { "name" : "123LIFT Group OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.8487009,59.50530870000001]},
+        "properties" : { "name" : "123 Meedia Osaühing"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.5718124,59.4396801]},
+        "properties" : { "name" : "123OSA OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6989406,59.45063810000001]},
+        "properties" : { "name" : "123 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7358113,58.37655290000001]},
+        "properties" : { "name" : "123 Raamatupidamine OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7444542,59.4356671]},
+        "properties" : { "name" : "123 Reklaam OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7410548,58.36089879999999]},
+        "properties" : { "name" : "123 RENT OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6410177,59.36852620000001]},
+        "properties" : { "name" : "123 Sale OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7658444,59.43786950000001]},
+        "properties" : { "name" : "123Teenused OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.0374224,57.77820319999999]},
+        "properties" : { "name" : "123Trade OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.3319806,59.2143416]},
+        "properties" : { "name" : "123Transport OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7460961,59.43234849999999]},
+        "properties" : { "name" : "123 Union OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7377815,59.431099]},
+        "properties" : { "name" : "12. Aprilli Selts"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6946128,59.42076909999999]},
+        "properties" : { "name" : "12 Capital OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.5572059,59.32414539999999]},
+        "properties" : { "name" : "12FIX OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7019802,59.4073008]},
+        "properties" : { "name" : "12kuud haldus OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7199099,58.3377645]},
+        "properties" : { "name" : "12 Maja OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7170774,59.41711410000001]},
+        "properties" : { "name" : "1/2 Mind OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.691468,59.4472528]},
+        "properties" : { "name" : "12 märki OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [28.1892653,59.3881345]},
+        "properties" : { "name" : "12V OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7460961,59.43234849999999]},
+        "properties" : { "name" : "13 boksiline hooneühistu Pärnu mnt 548C"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7321259,59.414721]},
+        "properties" : { "name" : "13 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6662601,59.3831581]},
+        "properties" : { "name" : "15075 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6943383,59.4452844]},
+        "properties" : { "name" : "150k OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7552757,59.43900780000001]},
+        "properties" : { "name" : "16EUR Hostel OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [25.5804499,58.3649348]},
+        "properties" : { "name" : "17 Kevadet OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7580874,59.4374212]},
+        "properties" : { "name" : "1894 Productions OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7369314,59.4066922]},
+        "properties" : { "name" : "1A.EE OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.8178295,58.99432220000001]},
+        "properties" : { "name" : "1 Agent Teenused OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [28.194266,59.3704601]},
+        "properties" : { "name" : "1AK200 OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [27.260574,59.31861]},
+        "properties" : { "name" : "1. Antox Grupp OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.3932613,58.02819]},
+        "properties" : { "name" : "1 ATR Engineering OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7257256,59.43475619999999]},
+        "properties" : { "name" : "1autorent OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7686186,59.43827529999999]},
+        "properties" : { "name" : "1Capital OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7985703,59.4204929]},
+        "properties" : { "name" : "1CARGO OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6415037,59.4084356]},
+        "properties" : { "name" : "1 CargoPlus OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.5209099,59.2813399]},
+        "properties" : { "name" : "1CATERING OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6795804,59.4142659]},
+        "properties" : { "name" : "1C INKASSO OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.3566465,59.4373955]},
+        "properties" : { "name" : "1comm OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6141964,58.37259839999999]},
+        "properties" : { "name" : "1Construct OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7534463,59.4303907]},
+        "properties" : { "name" : "1Credit OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.760602,59.43273609999999]},
+        "properties" : { "name" : "1DEVE Crane Activities OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7307509,59.3906976]},
+        "properties" : { "name" : "1Diil OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6141746,59.34957039999999]},
+        "properties" : { "name" : "1Disain OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.8193028,59.4025561]},
+        "properties" : { "name" : "1 Ettevõte OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.760602,59.43273609999999]},
+        "properties" : { "name" : "1 Euro OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7830907,59.4275256]},
+        "properties" : { "name" : "1Firmad OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.735859,59.430257]},
+        "properties" : { "name" : "1Grupp A&M OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7488104,59.4318895]},
+        "properties" : { "name" : "1Home Group AS"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7813183,59.44128799999999]},
+        "properties" : { "name" : "1Home Management OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7830907,59.4275256]},
+        "properties" : { "name" : "1Investmets UÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.6908199,59.4056186]},
+        "properties" : { "name" : "1it OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7275436,59.41703580000001]},
+        "properties" : { "name" : "1Kahest Grupp OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7105342,59.43764030000001]},
+        "properties" : { "name" : "1Karving Stuudio OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7448115,59.43185880000001]},
+        "properties" : { "name" : "1k-digital.com OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7605036,59.43236030000001]},
+        "properties" : { "name" : "1 Kindlustusmaakler OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.7744931,59.43820030000001]},
+        "properties" : { "name" : "1 Kinnisvaraarendaja OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [26.7301327,58.3099704]},
+        "properties" : { "name" : "1Kinnisvaramaakler OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [24.760602,59.43273609999999]},
+        "properties" : { "name" : "1Kodu Kinnisvara OÜ"},
+        "type" : "Feature"
+        },
+         {  "geometry" : {
+                "type" : "Point",
+                "coordinates" : [27.2549309,57.60745790000001]},
+        "properties" : { "name" : "1Konsult OÜ"},
+        "type" : "Feature"
+        }
+         ]
+}
+    
