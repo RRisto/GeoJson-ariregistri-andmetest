@@ -938,18 +938,6 @@
         },
          {  "geometry" : {
                 "type" : "Point",
-                "coordinates" : [100.7730417,18.7756318]},
-        "properties" : { "name" : "1x1invest OÜ"},
-        "type" : "Feature"
-        },
-         {  "geometry" : {
-                "type" : "Point",
-                "coordinates" : [100.7730417,18.7756318]},
-        "properties" : { "name" : "1x1Partner OÜ"},
-        "type" : "Feature"
-        },
-         {  "geometry" : {
-                "type" : "Point",
                 "coordinates" : [24.760602,59.43273609999999]},
         "properties" : { "name" : "2014 Kampaania OÜ"},
         "type" : "Feature"
