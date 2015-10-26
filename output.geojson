@@ -6021,7 +6021,7 @@
          {  "geometry" : {
                 "type" : "Point",
                 "coordinates" : [100.7730417,18.7756318]},
-        "properties" : { "name" : "Aare Liibusk "Paluotsa talu""},
+        "properties" : { "name" : "Aare Liibusk Paluotsa talu"},
         "type" : "Feature"
         },
          {  "geometry" : {
@@ -6129,7 +6129,7 @@
          {  "geometry" : {
                 "type" : "Point",
                 "coordinates" : [27.3819954,59.33412829999999]},
-        "properties" : { "name" : ""Aare Mägi FLORES""},
+        "properties" : { "name" : "Aare Mägi FLORES"},
         "type" : "Feature"
         },
          {  "geometry" : {
@@ -7258,12 +7258,6 @@
                 "type" : "Point",
                 "coordinates" : [24.9337906,59.4697675]},
         "properties" : { "name" : "AARTON OÜ"},
-        "type" : "Feature"
-        },
-         {  "geometry" : {
-                "type" : "Point",
-                "coordinates" : [100.7730417,18.7756318]},
-        "properties" : { "name" : "Aaru Builder OÜ"},
         "type" : "Feature"
         },
          {  "geometry" : {
