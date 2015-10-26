@@ -1,4 +1,4 @@
- { "type" : "FeatureCollection",
+	{ "type" : "FeatureCollection",
     "features" : [
          {  "geometry" : {
                 "type" : "Point",
@@ -346,12 +346,6 @@
                 "type" : "Point",
                 "coordinates" : [24.691468,59.4472528]},
         "properties" : { "name" : "12 märki OÜ"},
-        "type" : "Feature"
-        },
-         {  "geometry" : {
-                "type" : "Point",
-                "coordinates" : [100.7730417,18.7756318]},
-        "properties" : { "name" : "12social.com OÜ"},
         "type" : "Feature"
         },
          {  "geometry" : {
