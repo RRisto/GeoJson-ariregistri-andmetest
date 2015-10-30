@@ -8,6 +8,7 @@ täpsed koordinaadid
 """
 #######andmed sisse DataFrameina
 import pandas as pd
+import numpy as np
 data=pd.read_csv("ariregister_2015_10_15.csv", sep=";", encoding="latin-1")
 data.head(5)
 #kirjeldav stat
@@ -17,6 +18,10 @@ list(data.columns.values)
 #arvutame aadressi üheks variableks
 data["kogu_aadress"]=data["asukoht_ettevotja_aadressis"]+" "+\
 data["asukoha_ehak_tekstina"]+" Estonia"
+#eemaldame read, kus aadressi pole
+data=data.dropna(subset=['kogu_aadress'], how='all')
+#indeksid õigeks
+data=data.reindex(range(0,len(data)), method="ffill")
 #teen tühjad veerud latitude ja longitude jaoks
 data["lat"]=""
 data["lon"]=""
@@ -25,18 +30,27 @@ data["lon"]=""
 from geopy import geocoders
 #google APIga geocodings
 geolocator = geocoders.GoogleV3()
-location=geolocator.geocode(data["kogu_aadress"][2])
-print((location.latitude, location.longitude))
-#loobime rahulikult koos viitajaga esimesed 1000 rida
-for i in range(0,1000):
-    location=geolocator.geocode(data["kogu_aadress"][i], timeout=10)
-    data["lat"][i]=location.latitude
-    data["lon"][i]=location.longitude
-    
+#location=geolocator.geocode(data["kogu_aadress"][2])
+#print((location.latitude, location.longitude))
+#loobime prooviks läbi esimesed 2000 aadressi
+for i in range(0,2000):
+    try:
+        location=geolocator.geocode(data["kogu_aadress"][i], timeout=10)
+        data["lat"][i]=location.latitude
+        data["lon"][i]=location.longitude
+    #kui koordinaate ei saa, siis annab errori, prindib selle ja loobib järgmise i
+    except AttributeError as error_message:
+        print("Error: geocode failed on input %s with message %s"%\
+        (data["kogu_aadress"][i], error_message))
+        continue
+
+#salvestame tulemused, et siis hiljem jätakata sama koha pealt
+data.to_csv("29_10_2015_arireg.csv", sep=";")
+   
 #########################################GEOJSON
 #Geojson formaati, et saaks visualiseerida
 #subset andmetest
-proov=data.head(100)
+proov=data.head(1220)
 
 # geojsoni formaadi näidis
 template = \
