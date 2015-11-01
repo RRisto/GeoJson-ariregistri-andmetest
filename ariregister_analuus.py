@@ -6,6 +6,7 @@ Created on Wed Oct 21 18:32:21 2015
 eesmärk võtta ettevõtete aadressid ning leida neile geocodingu abil 
 täpsed koordinaadid
 """
+os.chdir(r"C:\Users\Risto\Documents\GitHub\GeoJson--riregistri-andmetest")
 #######andmed sisse DataFrameina
 import pandas as pd
 import numpy as np
@@ -32,8 +33,10 @@ from geopy import geocoders
 geolocator = geocoders.GoogleV3()
 #location=geolocator.geocode(data["kogu_aadress"][2])
 #print((location.latitude, location.longitude))
-#loobime prooviks läbi esimesed 2000 aadressi
-for i in range(0,2000):
+#loeme sisse juba osaliselt kodeeritud andmed
+data=pd.read_csv("31_10_2015_arireg.csv", sep=";", encoding="latin-1")
+#loobime geokoodid juurde
+for i in range(5064,10000):
     try:
         location=geolocator.geocode(data["kogu_aadress"][i], timeout=10)
         data["lat"][i]=location.latitude
@@ -45,7 +48,7 @@ for i in range(0,2000):
         continue
 
 #salvestame tulemused, et siis hiljem jätakata sama koha pealt
-data.to_csv("29_10_2015_arireg.csv", sep=";")
+data.to_csv("01_11_2015_arireg.csv", sep=";")
    
 #########################################GEOJSON
 #Geojson formaati, et saaks visualiseerida
